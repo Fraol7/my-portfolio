@@ -31,7 +31,6 @@ const LeftBanner = () => {
         make interactions unforgettable.
         </p>
       </div>
-     {/* Media */}
      <Media />
     </div>
   );
