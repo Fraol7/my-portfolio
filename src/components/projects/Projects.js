@@ -71,7 +71,7 @@ const Projects = () => {
           title="Amharic SignLang AI"
           des="⭐ An innovative application that interprets sign language into Amharic🤝, bridging the communication gap for the deaf community. Promoting inclusiveness and accessibility, this tool empowers seamless interaction . . . "
           src={projectEight}
-          link1="https://github.com/Fraol7/Injera-mold-detection-using-YOLOV8"
+          link1="https://github.com/Fraol7/Amharic-SignLanguage-Interpretor-AI"
           link2=""
         />
         <ProjectsCard
