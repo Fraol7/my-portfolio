@@ -104,7 +104,7 @@ const Footer = () => {
               </span>
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link
               activeClass="active"
               to="testimonial"
@@ -118,7 +118,7 @@ const Footer = () => {
                 <div className="w-full h-[1px] bg-designColor inline-flex absolute left-0 -bottom-1 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
               </span>
             </Link>
-          </li>
+          </li> */}
           <li>
             <Link
               activeClass="active"
