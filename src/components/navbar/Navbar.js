@@ -56,11 +56,10 @@ const Navbar = () => {
             <div className="w-[80%] h-screen overflow-scroll absolute top-0 left-0 bg-[#212428] p-4 scrollbar-hide">
               <div className="flex flex-col gap-8 py-2 relative">
                 <div>
-                  <img className="w-32" src={logo} alt="logo" />
+                  <video src={logo} alt="logo" className="cursor-pointer" autoPlay loop muted />
                   <p className="text-sm text-gray-400 mt-2">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Earum soluta perspiciatis molestias enim cum repellat,
-                    magnam exercitationem distinctio aliquid nam.
+                    I design experiences that are both functional and exciting, 
+                    making every interaction feel smooth and memorable.
                   </p>
                 </div>
                 <ul className="flex flex-col gap-4">

@@ -2,7 +2,7 @@ import React from 'react'
 
 const FooterBottom = () => {
   return (
-    <div className="w-full py-10">
+    <div className="w-full py-2">
       <p className="text-center text-gray-500 text-base">
         © 2024. All rights reserved by Fraol Mulugeta Gezmu
       </p>
@@ -10,4 +10,4 @@ const FooterBottom = () => {
   );
 }
 
-export default FooterBottom
+export default FooterBottom;

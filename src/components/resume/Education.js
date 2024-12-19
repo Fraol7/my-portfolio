@@ -49,7 +49,7 @@ const Education = () => {
             title="Data Structure and Algorithm, Competitive Programming"
             subTitle="African to Silicon Valley (2023 - 2024)"
             result="Done"
-            des="Educated by A2SV (an NGO that upskills African students with a 1 year long education and connects with top tech companies). Solved 800+ problems on Both LeetCode and Codeforces consistently throughout the year"
+            des="Educated by A2SV (an NGO that upskills African students with a 1 year long education and connects with top tech companies). Solved 800+ problems on Both LeetCode and Codeforces consistently throughout the year."
           />
           <ResumeCard
             title="Full Stack (MERN) Development"
